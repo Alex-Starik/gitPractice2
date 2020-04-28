@@ -7,6 +7,6 @@ public class LifeIsGood {
         System.out.println("I love my Life!");
         System.out.println("I love my family!");
         
-        System.out.println("I love this world!") // this line was added through GitHub
+        System.out.println("I love this world!"); // this line was added through GitHub
     }
 }
